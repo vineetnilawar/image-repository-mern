@@ -4,8 +4,8 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Its working Fine</h1>
-      <h2>left mai git wali billi dikh rhi ??</h2>
+      <h1>We are gonna do it</h1>
+      <h2></h2>
     </div>
   );
 }
